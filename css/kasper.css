@@ -877,7 +877,7 @@ header nav #searchButton:checked ~ .iconMenu {
   text-align: center;
   width: 100%;
   background-size: cover;
-  background-image: url(/images/stats.png);
+  background-image: url(../images/stats.png);
   position: relative;
 }
 .stats::before {
